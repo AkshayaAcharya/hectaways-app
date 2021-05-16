@@ -50,7 +50,7 @@ function App() {
         <i className="fa fa-bars"></i>
       </button>
       <div className="collapse navbar-collapse" id="navbarResponsive" onClick={hideMenuItem}>
-        <ul className="navbar-nav text-uppercase ml-auto">
+        <ul className="navbar-nav text-uppercase mr-auto">
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#whyUs">Why Us</a>
           </li>
