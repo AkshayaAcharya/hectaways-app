@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/hectaways-app/static/css/main.5bfd3706.chunk.css",
-    "main.js": "/hectaways-app/static/js/main.16110323.chunk.js",
-    "main.js.map": "/hectaways-app/static/js/main.16110323.chunk.js.map",
+    "main.css": "/hectaways-app/static/css/main.87b14970.chunk.css",
+    "main.js": "/hectaways-app/static/js/main.a470ff84.chunk.js",
+    "main.js.map": "/hectaways-app/static/js/main.a470ff84.chunk.js.map",
     "runtime-main.js": "/hectaways-app/static/js/runtime-main.fb232fda.js",
     "runtime-main.js.map": "/hectaways-app/static/js/runtime-main.fb232fda.js.map",
     "static/js/2.650417d3.chunk.js": "/hectaways-app/static/js/2.650417d3.chunk.js",
     "static/js/2.650417d3.chunk.js.map": "/hectaways-app/static/js/2.650417d3.chunk.js.map",
     "index.html": "/hectaways-app/index.html",
-    "static/css/main.5bfd3706.chunk.css.map": "/hectaways-app/static/css/main.5bfd3706.chunk.css.map",
+    "static/css/main.87b14970.chunk.css.map": "/hectaways-app/static/css/main.87b14970.chunk.css.map",
     "static/js/2.650417d3.chunk.js.LICENSE.txt": "/hectaways-app/static/js/2.650417d3.chunk.js.LICENSE.txt",
-    "static/media/agency.min.css": "/hectaways-app/static/media/map-image.3cd6dd98.png"
+    "static/media/hectaways.css": "/hectaways-app/static/media/map-image.3cd6dd98.png",
+    "static/media/logo1.6a368b89.png": "/hectaways-app/static/media/logo1.6a368b89.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fb232fda.js",
     "static/js/2.650417d3.chunk.js",
-    "static/css/main.5bfd3706.chunk.css",
-    "static/js/main.16110323.chunk.js"
+    "static/css/main.87b14970.chunk.css",
+    "static/js/main.a470ff84.chunk.js"
   ]
 }
