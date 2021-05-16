@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hectaways-app/static/css/main.e8319ded.chunk.css",
+    "main.js": "/hectaways-app/static/js/main.cd6f920c.chunk.js",
+    "main.js.map": "/hectaways-app/static/js/main.cd6f920c.chunk.js.map",
+    "runtime-main.js": "/hectaways-app/static/js/runtime-main.fb232fda.js",
+    "runtime-main.js.map": "/hectaways-app/static/js/runtime-main.fb232fda.js.map",
+    "static/js/2.650417d3.chunk.js": "/hectaways-app/static/js/2.650417d3.chunk.js",
+    "static/js/2.650417d3.chunk.js.map": "/hectaways-app/static/js/2.650417d3.chunk.js.map",
+    "index.html": "/hectaways-app/index.html",
+    "static/css/main.e8319ded.chunk.css.map": "/hectaways-app/static/css/main.e8319ded.chunk.css.map",
+    "static/js/2.650417d3.chunk.js.LICENSE.txt": "/hectaways-app/static/js/2.650417d3.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "/hectaways-app/static/media/map-image.3cd6dd98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb232fda.js",
+    "static/js/2.650417d3.chunk.js",
+    "static/css/main.e8319ded.chunk.css",
+    "static/js/main.cd6f920c.chunk.js"
+  ]
+}
