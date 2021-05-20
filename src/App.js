@@ -10,27 +10,27 @@ import './App.css';
 function App() {
   const portfolioLinks = [
     {
-      title : 'Threads',
+      title : 'Income Tax',
       caption : 'Illustration'
     },
     {
-      title : 'Explore',
+      title : 'GST',
       caption : 'Graphic Design'
     },
     {
-      title : 'Finish',
+      title : 'Accounting & Book Keeping',
       caption : 'Identity'
     },
     {
-      title : 'Lines',
+      title : 'Payroll Management',
       caption : 'Branding'
     },
     {
-      title : 'Southwest',
+      title : 'Statutory Compliance',
       caption : 'Website Design'
     },
     {
-      title : 'Window',
+      title : 'Management & Consultancy Services',
       caption : 'Photography'
     }
   ]
@@ -44,13 +44,13 @@ function App() {
     <div className="App">
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div className="container">
-      <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src={logo} style={{'display': 'inline-block'}} width="40" alt=""/>Hectaways Business Solutions</a>
-      <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="true" aria-label="Toggle navigation" id="menuButton" onClick={displayMenu}>
+      <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src={logo} style={{'display': 'inline-block'}}  width="80" height="50"  alt=""/>Hectaways Business Solutions</a>
+      <button className="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="true" aria-label="Toggle navigation" id="menuButton" onClick={displayMenu}>
         Menu
         <i className="fa fa-bars"></i>
       </button>
       <div className="collapse navbar-collapse" id="navbarResponsive" onClick={hideMenuItem}>
-        <ul className="navbar-nav text-uppercase mr-auto">
+        <ul className="navbar-nav text-uppercase m-auto">
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#whyUs">Why Us</a>
           </li>
@@ -78,7 +78,7 @@ function App() {
         <div className="intro-lead-in">Welcome To </div>
         <div className="intro-heading">Hectaways Business Solutions</div>
         <div className="intro-tagline-heading">Our Expertise at your Service</div>
-        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Know More</a>
+        <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#whyUs">Know More</a>
       </div>
     </div>
   </header>

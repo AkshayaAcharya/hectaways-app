@@ -1,4 +1,8 @@
 import React from 'react';
+import leader from '../assets/img/leader.png';
+import lead4 from '../assets/img/lead4.png';
+import lead2 from '../assets/img/lead2.png';
+import lead3 from '../assets/img/lead3.png';
 const Team = () => {
     return( 
         <section className="bg-light page-section" id="team">
@@ -6,15 +10,15 @@ const Team = () => {
             <div className="row">
             <div className="col-lg-12 text-center">
                 <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
-                <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 className="section-subheading text-muted">At your Service</h3>
             </div>
             </div>
             <div className="row">
-            <div className="col-sm-4">
+            <div className="col-md-3 col-sm-12">
                 <div className="team-member">
-                <img className="mx-auto rounded-circle" src="img/team/1.jpg" alt=""/>
-                <h4>Kay Garland</h4>
-                <p className="text-muted">Lead Designer</p>
+                <img className="mx-auto rounded-circle" src={leader} alt=""/>
+                <h4>Karthik</h4>
+                {/* <p className="text-muted">Lead Designer</p> */}
                 <ul className="list-inline social-buttons">
                     <li className="list-inline-item">
                     <a href="#something">
@@ -34,11 +38,11 @@ const Team = () => {
                 </ul>
                 </div>
             </div>
-            <div className="col-sm-4">
+            <div className="col-md-3 col-sm-12">
                 <div className="team-member">
-                <img className="mx-auto rounded-circle" src="img/team/2.jpg" alt=""/>
-                <h4>Larry Parker</h4>
-                <p className="text-muted">Lead Marketer</p>
+                <img className="mx-auto rounded-circle" src={lead2} alt=""/>
+                <h4>Hithesh</h4>
+                {/* <p className="text-muted">Lead Marketer</p> */}
                 <ul className="list-inline social-buttons">
                     <li className="list-inline-item">
                     <a href="#something">
@@ -58,11 +62,35 @@ const Team = () => {
                 </ul>
                 </div>
             </div>
-            <div className="col-sm-4">
+            <div className="col-md-3 col-sm-12">
                 <div className="team-member">
-                <img className="mx-auto rounded-circle" src="img/team/3.jpg" alt=""/>
-                <h4>Diana Pertersen</h4>
-                <p className="text-muted">Lead Developer</p>
+                <img className="mx-auto rounded-circle" src={lead4} alt=""/>
+                <h4>Rakshith</h4>
+                {/* <p className="text-muted">Lead Marketer</p> */}
+                <ul className="list-inline social-buttons">
+                    <li className="list-inline-item">
+                    <a href="#something">
+                        <i className="fab fa-twitter"></i>
+                    </a>
+                    </li>
+                    <li className="list-inline-item">
+                    <a href="#something">
+                        <i className="fab fa-facebook-f"></i>
+                    </a>
+                    </li>
+                    <li className="list-inline-item">
+                    <a href="#something">
+                        <i className="fab fa-linkedin-in"></i>
+                    </a>
+                    </li>
+                </ul>
+                </div>
+            </div>
+            <div className="col-md-3 col-sm-12">
+                <div className="team-member">
+                <img className="mx-auto rounded-circle" src={lead3} alt=""/>
+                <h4>Abhishek</h4>
+                {/* <p className="text-muted">Lead Developer</p> */}
                 <ul className="list-inline social-buttons">
                     <li className="list-inline-item">
                     <a href="#something">

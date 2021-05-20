@@ -41,7 +41,7 @@ const About = () => {
                             </div>
                         </div>
                         </li>
-                        <li>
+                        {/* <li>
                         <div className="timeline-image">
                             <img className="rounded-circle img-fluid" src="img/about/3.jpg" alt=""/>
                         </div>
@@ -54,8 +54,8 @@ const About = () => {
                             <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                             </div>
                         </div>
-                        </li>
-                        <li className="timeline-inverted">
+                        </li> */}
+                        {/* <li className="timeline-inverted">
                         <div className="timeline-image">
                             <img className="rounded-circle img-fluid" src="img/about/4.jpg" alt=""/>
                         </div>
@@ -68,7 +68,7 @@ const About = () => {
                             <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                             </div>
                         </div>
-                        </li>
+                        </li> */}
                         <li className="timeline-inverted">
                         <div className="timeline-image">
                             <h4>Be Part
