@@ -30,7 +30,7 @@ function App() {
       caption : 'Website Design'
     },
     {
-      title : 'Management & Consultancy Services',
+      title : 'Consultancy',
       caption : 'Photography'
     }
   ]
@@ -112,7 +112,7 @@ function App() {
             </li>
           </ul>
         </div>
-        <div className="col-md-4">
+        {/* <div className="col-md-4">
           <ul className="list-inline quicklinks">
             <li className="list-inline-item">
               <a href="#something">Privacy Policy</a>
@@ -121,7 +121,7 @@ function App() {
               <a href="#something">Terms of Use</a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </div>
   </footer>

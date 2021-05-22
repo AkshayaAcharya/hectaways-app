@@ -231,7 +231,7 @@ header.masthead .intro-text .intro-tagline-heading {
     -webkit-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 0;
-    background: rgba(54, 224, 254, 0.9);
+    /* background: rgba(54, 224, 254, 0.9); */
     
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -265,6 +265,11 @@ header.masthead .intro-text .intro-tagline-heading {
     padding: 25px;
     text-align: center;
     background-color: #fff;
+    border: 3px solid rgba(20, 154, 180, 0.3);
+    /* box-shadow:
+       inset 3em -3em 3em rgba(20, 154, 180, 0.3),
+             0 0  0 2px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(20, 154, 180, 0.3); */
 }
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;

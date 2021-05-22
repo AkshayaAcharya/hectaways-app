@@ -10,7 +10,7 @@ const Team = () => {
             <div className="row">
             <div className="col-lg-12 text-center">
                 <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
-                <h3 className="section-subheading text-muted">At your Service</h3>
+                <h3 className="section-subheading text-muted">At your Service<span style={{'color':'red'}}> (Any other sentence you would suggest here)</span></h3>
             </div>
             </div>
             <div className="row">
@@ -111,11 +111,11 @@ const Team = () => {
                 </div>
             </div>
             </div>
-            <div className="row">
+            {/* <div className="row">
             <div className="col-lg-8 mx-auto text-center">
-                <p className="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                <p className="large text-muted">Few sentences here </p>
             </div>
-            </div>
+            </div> */}
         </div>
         </section>
     );
