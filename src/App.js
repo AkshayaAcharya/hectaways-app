@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from './assets/img/logo1.png';
+import logo from './assets/img/logo.png';
+import name from './assets/img/name.png';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
 import Contact from './components/Contact';
@@ -44,9 +45,9 @@ function App() {
     <div className="App">
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div className="container">
-      <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src={logo} style={{'display': 'inline-block'}}  width="80" height="50"  alt=""/>Hectaways Business Solutions</a>
+      <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src={logo} style={{'display': 'inline-block'}}  alt=""/><img src={name} style={{'display': 'inline-block'}}  alt=""/></a>
       <button className="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="true" aria-label="Toggle navigation" id="menuButton" onClick={displayMenu}>
-        Menu
+        
         <i className="fa fa-bars"></i>
       </button>
       <div className="collapse navbar-collapse" id="navbarResponsive" onClick={hideMenuItem}>
@@ -55,16 +56,16 @@ function App() {
             <a className="nav-link js-scroll-trigger" href="#whyUs">Why Us</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+            <a className="nav-link js-scroll-trigger" href="#portfolio">Services</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#about">About</a>
+            <a className="nav-link js-scroll-trigger" href="#about">About Us</a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#team">Team</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#contact">Contact</a>
+            <a className="nav-link js-scroll-trigger" href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>

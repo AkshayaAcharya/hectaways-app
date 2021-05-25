@@ -10,7 +10,7 @@ const Team = () => {
             <div className="row">
             <div className="col-lg-12 text-center">
                 <h2 className="section-heading text-uppercase">Our Amazing Team</h2>
-                <h3 className="section-subheading text-muted">At your Service<span style={{'color':'red'}}> (Any other sentence you would suggest here)</span></h3>
+                <h3 className="section-subheading oneliner">We're a growing team of accounting experts and thought leaders — full of personality, work ethics dedicated to enhancing our clients' business performances.</h3>
             </div>
             </div>
             <div className="row">
