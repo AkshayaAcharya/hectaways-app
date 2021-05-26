@@ -8,7 +8,8 @@ const About = () => {
                 <div className="row">
                     <div className="col-lg-12 text-center">
                     <h2 className="section-heading text-uppercase">About Us</h2>
-                    <h3 className="section-subheading oneliner">Hectaways Business Solutions - our expertise at your service. We are more than an accounting and consultancy firm.</h3>
+                    <h3 className="section-subheading oneliner">Hectaways Business Solutions - our expertise at your service. </h3>
+                    <h4 className="section-subheading">We are more than an accounting and consultancy firm. </h4>
                     </div>
                 </div>
                 <div className="row">
@@ -29,7 +30,7 @@ const About = () => {
                             <h5 className="card-title">Connect Us</h5>
                             {/* <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> */}
                             <div className="card-text">
-                             <p><i className="fas fa-map-marker-alt fa-1x"></i> Veera Bhavan, Jai Jawan Road, Adiudupi - 576106, Udupi, Karnataka </p>
+                             <p><i className="fas fa-map-marker-alt fa-1x"></i> #2-316, Veera Bhavan, Jai Jawan Road, Adiudupi - 576103, Udupi, Karnataka </p>
                              <p><i className="fas fa-envelope fa-1x m-2"></i>hectaways@gmail.com 
                               <i className="fas fa-phone-alt fa-1x m-2"></i>1234567890 
                              <i className="fab fa-whatsapp fa-1x m-2"></i>1234567890 </p>

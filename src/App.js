@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/img/logo.png';
+import logo from './assets/img/logo3.png';
 import name from './assets/img/name.png';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
@@ -31,7 +31,7 @@ function App() {
       caption : 'Website Design'
     },
     {
-      title : 'Consultancy',
+      title : 'Management Consultancy',
       caption : 'Photography'
     }
   ]
