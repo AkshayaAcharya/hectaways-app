@@ -47,7 +47,6 @@ function App() {
     <div className="container">
       <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src={logo} style={{'display': 'inline-block'}}  alt=""/><img src={name} style={{'display': 'inline-block'}}  alt=""/></a>
       <button className="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="true" aria-label="Toggle navigation" id="menuButton" onClick={displayMenu}>
-        
         <i className="fa fa-bars"></i>
       </button>
       <div className="collapse navbar-collapse" id="navbarResponsive" onClick={hideMenuItem}>

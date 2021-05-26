@@ -46,7 +46,7 @@ h6 {
 }
 @media (min-width: 768px) {
     section {
-        padding: 150px 0;
+        padding: 200px 0;
     }
 }
 ::-moz-selection {
@@ -98,7 +98,7 @@ img::-moz-selection {
 #mainNav .navbar-toggler {
     font-size: 12px;
     right: 0;
-    padding: 13px;
+    padding: 10px;
     text-transform: uppercase;
     color: #fff;
     border: 0;
