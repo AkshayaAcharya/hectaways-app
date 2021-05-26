@@ -37,8 +37,8 @@ class  Portfolio extends React.Component{
         <div className="row pt-5">
         {
           this.props.portfolioLinks && this.props.portfolioLinks.map(({ title }, index) => 
-              <div className="col-md-4 col-sm-6 portfolio-item portfolio-arrow" key={index} >
-                  <div className="shadow portfolio-caption" onClick={()=>this.showModal(title)} >
+              <div className="col-md-4 col-sm-6 portfolio-item portfolio-arrow " key={index} >
+                  <div className="shadow portfolio-caption h-100" onClick={()=>this.showModal(title)} >
                       <h4>{ title }</h4>
                       <p className="text-muted"><i className="fas fa-angle-double-down fa-1x fa-inverse portfolio-arrow" ></i></p>
                   </div>

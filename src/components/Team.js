@@ -14,7 +14,7 @@ const Team = () => {
             </div>
             </div>
             <div className="row">
-            <div className="col-md-3 col-sm-12">
+            <div className="col-md-6 col-sm-12 col-lg-3">
                 <div className="team-member">
                 <img className="mx-auto rounded-circle" src={leader} alt=""/>
                 <h4>Karthik</h4>
@@ -38,7 +38,7 @@ const Team = () => {
                 </ul>
                 </div>
             </div>
-            <div className="col-md-3 col-sm-12">
+            <div className="col-md-6 col-sm-12 col-lg-3">
                 <div className="team-member">
                 <img className="mx-auto rounded-circle" src={lead2} alt=""/>
                 <h4>Hithesh</h4>
@@ -62,7 +62,7 @@ const Team = () => {
                 </ul>
                 </div>
             </div>
-            <div className="col-md-3 col-sm-12">
+            <div className="col-md-6 col-sm-12 col-lg-3">
                 <div className="team-member">
                 <img className="mx-auto rounded-circle" src={lead4} alt=""/>
                 <h4>Rakshith</h4>

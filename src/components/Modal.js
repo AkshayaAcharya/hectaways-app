@@ -51,7 +51,7 @@ const Modal = ({ handleClose, show, contentTitle}) => {
     return ( 
       <div className={showHideClassName} onClick={handleClose}>
         <section className="modal-main">
-            <div className="shadow modal-dialog">
+            <div className="modal-dialog shadow ">
                 <div className="modal-content">
                 <div className="modal-header">
                     <h5 className="modal-title">{contentTitle}</h5>

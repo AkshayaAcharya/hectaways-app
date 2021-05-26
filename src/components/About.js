@@ -8,7 +8,7 @@ const About = () => {
                 <div className="row">
                     <div className="col-lg-12 text-center">
                     <h2 className="section-heading text-uppercase">About Us</h2>
-                    <h3 className="section-subheading oneliner">Hectaways - our expertise at your service. We are more than an accounting and consultancy firm.</h3>
+                    <h3 className="section-subheading oneliner">Hectaways Business Solutions - our expertise at your service. We are more than an accounting and consultancy firm.</h3>
                     </div>
                 </div>
                 <div className="row">

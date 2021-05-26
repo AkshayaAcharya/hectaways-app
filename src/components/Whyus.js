@@ -16,7 +16,7 @@ const Whyus = () => {
                     <i className="fa fa-handshake fa-stack-1x fa-inverse"></i>
                 </span>
                 <h4 className="service-heading">Professionalism</h4>
-                <p className="text-muted">By combining our expertise, experience, and the energy of our staff, each client receives close personal and professional attention. We take special care to maintain constant communication and always respond promptly and professionally to our clients.</p>
+                <p className="text">By combining our expertise, experience, and the energy of our staff, each client receives close personal and professional attention. We take special care to maintain constant communication and always respond promptly and professionally to our clients.</p>
                 </div>
                 <div className="col-md-4">
                 <span className="fa-stack fa-4x fa-2x">
@@ -24,7 +24,7 @@ const Whyus = () => {
                     <i className="fa fa-lock fa-stack-1x fa-inverse"></i>
                 </span>
                 <h4 className="service-heading">Data Security</h4>
-                <p className="text-muted">We guarantee a comprehensive range of protection and confidentiality of our client's data.  Privacy of individual client data will be respected in accordance with the laws and regulations.</p>
+                <p className="text">We guarantee a comprehensive range of protection and confidentiality of our client's data.  Privacy of individual client data will be respected in accordance with the laws and regulations.</p>
                 </div>
                 <div className="col-md-4">
                 <span className="fa-stack fa-4x fa-2x">
@@ -32,7 +32,7 @@ const Whyus = () => {
                     <i className="fa fa-rupee-sign fa-stack-1x fa-inverse"></i>
                 </span>
                 <h4 className="service-heading">Cost</h4>
-                <p className="text-muted">In the emerging competitive world, all businesses must comply with applicable statutes at minimum cost. Abiding by this, We deliver timely, efficient, cost-effective services tailored to the specific needs of our clients. </p>
+                <p className="text">In the emerging competitive world, all businesses must comply with applicable statutes at minimum cost. Abiding by this, We deliver timely, efficient, cost-effective services tailored to the specific needs of our clients. </p>
                 </div>
             </div>
             </div>
