@@ -1,9 +1,9 @@
 import React from 'react';
 import logo from './assets/img/logo3.png';
-import name from './assets/img/name.png';
+import name from './assets/img/name1.png';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
 import Team from './components/Team';
 import Whyus from './components/Whyus';
 import './App.css';
