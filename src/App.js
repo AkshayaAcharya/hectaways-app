@@ -93,7 +93,7 @@ function App() {
         <div className="col-md-4 text-center">
           <span className="copyright text-center">Copyright &copy; Hectaways Business Solutions 2021</span>
         </div>
-        <div className="col-md-4">
+        {/* <div className="col-md-4"> */}
           {/* <ul className="list-inline social-buttons">
             <li className="list-inline-item">
               <a href="#something">
@@ -117,7 +117,7 @@ function App() {
             </li>
           </ul>
         </div> */}
-      </div>
+      {/* </div> */}
     </div>
   </footer>
     </div>
