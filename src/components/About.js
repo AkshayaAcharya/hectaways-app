@@ -31,9 +31,8 @@ const About = () => {
                             {/* <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> */}
                             <div className="card-text">
                              <p><i className="fas fa-map-marker-alt fa-1x"></i> #2-316, Veera Bhavan, Jai Jawan Road, Adiudupi - 576103, Udupi, Karnataka </p>
-                             <p><i className="fas fa-envelope fa-1x m-2"></i>hectaways@gmail.com 
-                              <i className="fas fa-phone-alt fa-1x m-2"></i>1234567890 
-                             <i className="fab fa-whatsapp fa-1x m-2"></i>1234567890 </p>
+                             <p><i className="fas fa-envelope fa-1x m-2"></i>hectaways@outlook.com 
+                              <i className="fas fa-phone-alt fa-1x m-2"></i>+919480465486, +919482540295, +919481648997, +917259654657  </p>
                         </div>
                         </div>
                         </div>

@@ -63,9 +63,9 @@ function App() {
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#team">Team</a>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#contact">Contact Us</a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>
@@ -86,23 +86,18 @@ function App() {
   <Portfolio portfolioLinks={portfolioLinks}/>
   <About  />
   <Team />
-  <Contact />
+  {/* <Contact /> */}
   <footer className="footer">
     <div className="container">
       <div className="row align-items-center">
-        <div className="col-md-4">
-          <span className="copyright">Copyright &copy; Hectaways Business Solutions 2021</span>
+        <div className="col-md-4 text-center">
+          <span className="copyright text-center">Copyright &copy; Hectaways Business Solutions 2021</span>
         </div>
         <div className="col-md-4">
-          <ul className="list-inline social-buttons">
+          {/* <ul className="list-inline social-buttons">
             <li className="list-inline-item">
               <a href="#something">
-                <i className="fab fa-twitter"></i>
-              </a>
-            </li>
-            <li className="list-inline-item">
-              <a href="#something">
-                <i className="fab fa-facebook-f"></i>
+                <i className="fab fa-instagram"></i>
               </a>
             </li>
             <li className="list-inline-item">
@@ -110,7 +105,7 @@ function App() {
                 <i className="fab fa-linkedin-in"></i>
               </a>
             </li>
-          </ul>
+          </ul> */}
         </div>
         {/* <div className="col-md-4">
           <ul className="list-inline quicklinks">

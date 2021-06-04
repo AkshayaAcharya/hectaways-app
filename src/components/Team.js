@@ -19,15 +19,10 @@ const Team = () => {
                 <img className="mx-auto rounded-circle" src={leader} alt=""/>
                 <h4>Karthik</h4>
                 {/* <p className="text-muted">Lead Designer</p> */}
-                <ul className="list-inline social-buttons">
+                {/* <ul className="list-inline social-buttons">
                     <li className="list-inline-item">
                     <a href="#something">
-                        <i className="fab fa-twitter"></i>
-                    </a>
-                    </li>
-                    <li className="list-inline-item">
-                    <a href="#something">
-                        <i className="fab fa-facebook-f"></i>
+                        <i className="fab fa-instagram"></i>
                     </a>
                     </li>
                     <li className="list-inline-item">
@@ -35,7 +30,7 @@ const Team = () => {
                         <i className="fab fa-linkedin-in"></i>
                     </a>
                     </li>
-                </ul>
+                </ul> */}
                 </div>
             </div>
             <div className="col-md-6 col-sm-12 col-lg-3">
@@ -43,23 +38,18 @@ const Team = () => {
                 <img className="mx-auto rounded-circle" src={lead2} alt=""/>
                 <h4>Hithesh</h4>
                 {/* <p className="text-muted">Lead Marketer</p> */}
-                <ul className="list-inline social-buttons">
+                {/* <ul className="list-inline social-buttons">
                     <li className="list-inline-item">
-                    <a href="#something">
-                        <i className="fab fa-twitter"></i>
+                    <a href="#">
+                        <i className="fab fa-instagram"></i>
                     </a>
                     </li>
                     <li className="list-inline-item">
-                    <a href="#something">
-                        <i className="fab fa-facebook-f"></i>
-                    </a>
-                    </li>
-                    <li className="list-inline-item">
-                    <a href="#something">
+                    <a href="#">
                         <i className="fab fa-linkedin-in"></i>
                     </a>
                     </li>
-                </ul>
+                </ul> */}
                 </div>
             </div>
             <div className="col-md-6 col-sm-12 col-lg-3">
@@ -67,23 +57,18 @@ const Team = () => {
                 <img className="mx-auto rounded-circle" src={lead4} alt=""/>
                 <h4>Rakshith</h4>
                 {/* <p className="text-muted">Lead Marketer</p> */}
-                <ul className="list-inline social-buttons">
+                {/* <ul className="list-inline social-buttons">
                     <li className="list-inline-item">
-                    <a href="#something">
-                        <i className="fab fa-twitter"></i>
+                    <a href="#">
+                        <i className="fab fa-instagram"></i>
                     </a>
                     </li>
                     <li className="list-inline-item">
-                    <a href="#something">
-                        <i className="fab fa-facebook-f"></i>
-                    </a>
-                    </li>
-                    <li className="list-inline-item">
-                    <a href="#something">
+                    <a href="#">
                         <i className="fab fa-linkedin-in"></i>
                     </a>
                     </li>
-                </ul>
+                </ul> */}
                 </div>
             </div>
             <div className="col-md-3 col-sm-12">
@@ -91,23 +76,18 @@ const Team = () => {
                 <img className="mx-auto rounded-circle" src={lead3} alt=""/>
                 <h4>Abhishek</h4>
                 {/* <p className="text-muted">Lead Developer</p> */}
-                <ul className="list-inline social-buttons">
+                {/* <ul className="list-inline social-buttons">
                     <li className="list-inline-item">
-                    <a href="#something">
-                        <i className="fab fa-twitter"></i>
+                    <a href="#">
+                        <i className="fab fa-instagram"></i>
                     </a>
                     </li>
                     <li className="list-inline-item">
-                    <a href="#something">
-                        <i className="fab fa-facebook-f"></i>
-                    </a>
-                    </li>
-                    <li className="list-inline-item">
-                    <a href="#something">
+                    <a href="#">
                         <i className="fab fa-linkedin-in"></i>
                     </a>
                     </li>
-                </ul>
+                </ul> */}
                 </div>
             </div>
             </div>

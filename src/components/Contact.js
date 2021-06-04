@@ -11,7 +11,7 @@ class Contact extends Component {
         const { name, email, phone, message } = this.state
         let templateParams = {
           from_name: email,
-          to_name: '<YOUR_EMAIL_ID>',
+          to_name: 'hectaways@outlook.com',
           phone: phone,
           message_html: message,
          }
@@ -51,20 +51,24 @@ class Contact extends Component {
                         <div className="col-md-6">
                             <div className="form-group">
                             <input className="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name."/>
+                            <p className="help-block text-danger" value={this.state.name}
+                            onChange={this.handleChange.bind(this, 'name')}></p>
+                            </div>
+                            <div className="form-group">
+                            <input className="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address." value={this.state.email}
+                            onChange={this.handleChange.bind(this, 'email')}/>
                             <p className="help-block text-danger"></p>
                             </div>
                             <div className="form-group">
-                            <input className="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address."/>
-                            <p className="help-block text-danger"></p>
-                            </div>
-                            <div className="form-group">
-                            <input className="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number."/>
+                            <input className="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number." value={this.state.phone}
+                            onChange={this.handleChange.bind(this, 'phone')}/>
                             <p className="help-block text-danger"></p>
                             </div>
                         </div>
                         <div className="col-md-6">
                             <div className="form-group">
-                            <textarea className="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
+                            <textarea className="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message." value={this.state.message}
+                            onChange={this.handleChange.bind(this, 'message')}></textarea>
                             <p className="help-block text-danger"></p>
                             </div>
                         </div>
