@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hectaways-app/static/css/main.07deab08.chunk.css",
-    "main.js": "/hectaways-app/static/js/main.5e79e93d.chunk.js",
-    "main.js.map": "/hectaways-app/static/js/main.5e79e93d.chunk.js.map",
+    "main.css": "/hectaways-app/static/css/main.9b79c6f2.chunk.css",
+    "main.js": "/hectaways-app/static/js/main.468171b1.chunk.js",
+    "main.js.map": "/hectaways-app/static/js/main.468171b1.chunk.js.map",
     "runtime-main.js": "/hectaways-app/static/js/runtime-main.fb232fda.js",
     "runtime-main.js.map": "/hectaways-app/static/js/runtime-main.fb232fda.js.map",
     "static/css/2.61b4cb56.chunk.css": "/hectaways-app/static/css/2.61b4cb56.chunk.css",
@@ -10,20 +10,20 @@
     "static/js/2.33971ddc.chunk.js.map": "/hectaways-app/static/js/2.33971ddc.chunk.js.map",
     "index.html": "/hectaways-app/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/hectaways-app/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.07deab08.chunk.css.map": "/hectaways-app/static/css/main.07deab08.chunk.css.map",
+    "static/css/main.9b79c6f2.chunk.css.map": "/hectaways-app/static/css/main.9b79c6f2.chunk.css.map",
     "static/js/2.33971ddc.chunk.js.LICENSE.txt": "/hectaways-app/static/js/2.33971ddc.chunk.js.LICENSE.txt",
     "static/media/hectaways.css": "/hectaways-app/static/media/map-image.3cd6dd98.png",
     "static/media/lead2.aa3112c8.png": "/hectaways-app/static/media/lead2.aa3112c8.png",
     "static/media/lead3.504c4ecb.png": "/hectaways-app/static/media/lead3.504c4ecb.png",
     "static/media/lead4.70157884.png": "/hectaways-app/static/media/lead4.70157884.png",
     "static/media/leader.a339603f.png": "/hectaways-app/static/media/leader.a339603f.png",
-    "static/media/name.e024252e.png": "/hectaways-app/static/media/name.e024252e.png"
+    "static/media/name.0de975ba.png": "/hectaways-app/static/media/name.0de975ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fb232fda.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.33971ddc.chunk.js",
-    "static/css/main.07deab08.chunk.css",
-    "static/js/main.5e79e93d.chunk.js"
+    "static/css/main.9b79c6f2.chunk.css",
+    "static/js/main.468171b1.chunk.js"
   ]
 }
