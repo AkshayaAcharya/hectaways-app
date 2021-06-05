@@ -2,7 +2,7 @@
   "name": "hectaways-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akshayaacharya.github.io/hectaways-app",
+  "homepage": "/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
