@@ -1,9 +1,8 @@
 import React from 'react';
 import logo from './assets/img/logo3.png';
-import name from './assets/img/name1.png';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
-// import Contact from './components/Contact';
+import Contact from './components/Contact';
 import Team from './components/Team';
 import Whyus from './components/Whyus';
 import './App.css';
@@ -45,7 +44,7 @@ function App() {
     <div className="App">
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div className="container">
-      <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src={logo} style={{'display': 'inline-block'}}  alt=""/><img src={name} style={{'display': 'inline-block'}}  alt=""/></a>
+      <a className="navbar-brand js-scroll-trigger" href="#page-top"><img src={logo} style={{'display': 'inline-block'}}  alt=""/>Hectaways Business Solutions</a>
       <button className="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="true" aria-label="Toggle navigation" id="menuButton" onClick={displayMenu}>
         <i className="fa fa-bars"></i>
       </button>
@@ -63,9 +62,9 @@ function App() {
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#team">Team</a>
           </li>
-          {/* <li className="nav-item">
+          <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#contact">Contact Us</a>
-          </li> */}
+          </li>
         </ul>
       </div>
     </div>
@@ -86,7 +85,7 @@ function App() {
   <Portfolio portfolioLinks={portfolioLinks}/>
   <About  />
   <Team />
-  {/* <Contact /> */}
+  <Contact />
   <footer className="footer">
     <div className="container">
       <div className="row align-items-center">
